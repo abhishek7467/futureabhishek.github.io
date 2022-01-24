@@ -1,0 +1,73 @@
+.Home_full #navbar ul {
+    flex-direction: column;
+}
+
+#navbar ul li a {
+    padding: 8px;
+    margin: -4px;
+    font-style: bold;
+    font-size: 0.9rem
+}
+
+.Home_full #Home h1 {
+    margin: 0;
+    padding: 3px 3px;
+    font-size: 1.5rem;
+}
+
+#Home p {
+    padding: 3px 2px;
+    margin: 0px;
+    font-size: 0.7rem
+}
+
+.Course li h1 {
+    font-size: 1.5rem
+}
+
+#Course_name {
+    width: auto;
+}
+
+.foot {
+    width: 100.%;
+}
+
+.about div h1 {
+    font-size: 1.5rem;
+    padding: 0px;
+    margin: 0px
+}
+
+.about div li p {
+    padding: 0px;
+    margin: 2px;
+    font-size: 0.7rem;
+}
+
+div li {
+    list-style: none;
+}
+
+.contact h1 {
+    padding: 20px;
+    font-size: 1.1rem;
+}
+
+.Form {
+    padding: 2px 9px;
+    margin: 2px 29px
+}
+
+#inputbox {
+    width: 73%;
+    height: 27px;
+}
+
+foot {
+    font-size: 0.8rem;
+}
+
+Home_full .logo img {
+    width: 20px;
+}
